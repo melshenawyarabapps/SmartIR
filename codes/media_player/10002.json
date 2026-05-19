@@ -3,7 +3,7 @@
   "supportedModels": [
     "Living TV"
   ],
-  "supportedController": "Broadlink",
+  "supportedController": "Tuya",
   "commandsEncoding": "Base64",
   "commands": {
     "off": "8d048d04b4014702b4017403b401da09b4014702b401cd05b401da09b4018d04b4018d04b4017403b401cd05b4018d0476013a573001740376013001760147027601d0fb",
